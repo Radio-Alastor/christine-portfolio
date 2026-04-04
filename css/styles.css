@@ -430,14 +430,6 @@ footer p {
     color: var(--secondary-color);
 }
 
-
-
-
-
-
-
-
-
 /* RESPONSIVE DESIGN (MEDIA QUERIES) */
 @media (max-width:56.25rem) {
     /* means that it applies 900px max width or below */
