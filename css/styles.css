@@ -2,7 +2,7 @@
 :root {
     --primary-color: #1a1a1a;
     --secondary-color: #6c757d;
-    --accent-color: #598FE2;
+    --accent-color: #DC7155;
     /* A touch of blue for accents */
     --light-bg-color: #f8f9fa;
     --white: #ffffff;
@@ -310,7 +310,7 @@ nav a:hover {
 }
 
 .project-image1 {
-    background-image: url("../imgs/colmaracademy.jpeg");
+    background-image: url("../imgs/postman-testing.jpeg");
     width: 100%;
     height: 10rem;
     background-size: cover;
@@ -321,7 +321,7 @@ nav a:hover {
 }
 
 .project-image2 {
-    background-image: url("../imgs/airstream.jpeg");
+    background-image: url("../imgs/student-registration.jpeg");
     width: 100%;
     height: 10rem;
     background-size: cover;
@@ -332,7 +332,37 @@ nav a:hover {
 }
 
 .project-image3 {
-    background-image: url("../imgs/web-design.jpg");
+    background-image: url("../imgs/find-my-hat.jpeg");
+    width: 100%;
+    height: 10rem;
+    background-size: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.project-image4 {
+    background-image: url("../imgs/airstream.jpeg");
+    width: 100%;
+    height: 10rem;
+    background-size: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.project-image5 {
+    background-image: url("../imgs/colmaracademy.jpeg");
+    width: 100%;
+    height: 10rem;
+    background-size: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.project-image6 {
+    background-image: url("../imgs/silver-guide.jpeg");
     width: 100%;
     height: 10rem;
     background-size: cover;
